@@ -23,11 +23,11 @@ An automated plant care and soil-moisture monitoring system built using an **Ard
 ## Repository Structure
 
 - [`Smart_Plant_Monitor.ino`](https://github.com/trushatanna/Smart-plant-health-monitor./Smart_Plant_Monitor.ino) – Arduino code for soil-moisture sensing and automated watering control
-- [`plant_circuit.jpg`](./plant_circuit.jpg) – Hardware wiring and prototype setup *(optional)*
+- [`plant_circuit.jpg`](plant_circuit.jpg) – Hardware wiring and prototype setup *(optional)*
 
 ### Circuit & Prototype Preview
 
-![Hardware wiring and prototype setup](./plant_circuit.jpg)
+![Hardware wiring and prototype setup](plant_circuit.jpg)
 
 
 ## Author
